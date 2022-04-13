@@ -1,0 +1,22 @@
+.fa-facebook-square{
+    color: rgb(21, 124, 172);
+}
+
+.fa-instagram{
+    color: rgb(146, 23, 23);
+}
+
+.fa-twitter{
+    color: rgb(42, 85, 165);
+}
+
+.fa-youtube{
+    color: rgb(197, 20, 20);
+}
+
+.fa-linkedin-square{
+    color: blue;
+}
+#footer{
+    position: fixed;
+}

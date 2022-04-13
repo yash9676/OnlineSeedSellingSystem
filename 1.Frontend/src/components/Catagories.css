@@ -1,0 +1,12 @@
+.slider-container {
+    clear: both;
+    padding-bottom: 70px;
+    border-bottom: solid rgb(8, 8, 8) 0px;
+    height: 3px;
+    margin-top: 5px;
+  }
+
+  .item-container {
+    float: left;
+    margin: 30px;
+  }
